@@ -64,6 +64,7 @@ export default function header({ }: Props) {
                 </SocialIcon>
                 <p className='uppercase  font-sans hidden md:inline-flex text-sm text-gray-400'> Reach Out!!</p>
             </motion.div>
+            
 
         </header>
     )
